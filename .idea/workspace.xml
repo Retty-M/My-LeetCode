@@ -2,40 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6aa8c5d-710f-41fd-8aad-9e4beab89477" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution101.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution102.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution104.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution107.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution110.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution125.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution155.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution160.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution169.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution171.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution191.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution198.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution205.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution206.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution21.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution217.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution231.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution232.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution234.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution235.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution242.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution257.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution283.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution290.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution299.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution303.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution70.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TreeNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="My LeetCode.iws" />
@@ -405,6 +371,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
