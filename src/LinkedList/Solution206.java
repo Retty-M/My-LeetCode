@@ -35,8 +35,8 @@ public class Solution206 {
 		if (head == null || head.next == null) return head;
 
 		ListNode newHead = reverseList1(head.next);
+		head.next.next = head;
 		head.next = null;
-		newHead.next = head;
 		return newHead;
 
 	}
