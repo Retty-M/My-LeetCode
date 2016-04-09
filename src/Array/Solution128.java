@@ -1,9 +1,7 @@
-package LinearList;
+package Array;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 /**
  * Created by Retty on 2016-03-26.

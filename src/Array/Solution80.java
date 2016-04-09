@@ -1,4 +1,4 @@
-package LinearList;
+package Array;
 
 /**
  * Created by Retty on 2016-03-19.

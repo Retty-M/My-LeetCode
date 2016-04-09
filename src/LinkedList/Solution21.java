@@ -1,3 +1,7 @@
+package LinkedList;
+
+import LinkedList.ListNode;
+
 /**
  * Created by Retty on 2016-03-20.
  */

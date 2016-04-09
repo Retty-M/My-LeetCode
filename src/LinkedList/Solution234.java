@@ -1,6 +1,9 @@
-/**
+package LinkedList; /**
  * Created by Retty on 2016-03-20.
  */
+
+import LinkedList.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

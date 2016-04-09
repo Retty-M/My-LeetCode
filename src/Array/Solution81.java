@@ -1,7 +1,4 @@
-package LinearList;
-
-import java.util.HashSet;
-import java.util.Set;
+package Array;
 
 /**
  * Created by Retty on 2016-03-19.

@@ -1,7 +1,11 @@
-package LinearList;
+package Array;
 
 /**
  * Created by Retty on 2016-03-20.
+ * Median of Two Sorted Arrays
+ * 首先根据元素总奇偶确定中间数位置
+ * 保证较小的数组在前面，然后不断进行比较，
+ * 舍弃较小的值的前面的元素，继续查找
  */
 public class Solution4 {
 

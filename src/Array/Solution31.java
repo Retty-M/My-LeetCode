@@ -1,8 +1,4 @@
-package LinearList;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package Array;
 
 /**
  * Created by Retty on 2016-03-27.

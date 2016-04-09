@@ -3,7 +3,7 @@ package Sorting;
 /**
  * Created by Retty on 2016-03-28.
  * 归并排序：对每一小块进行排序，逐渐扩大到整个数组
- * 归并排序：是一种比较占内存，但却效率高且稳定的算法
+ * 是一种比较占内存，但却效率高且稳定的算法
  */
 public class Merge {
 

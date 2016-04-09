@@ -9,6 +9,7 @@ package Sorting;
 public class Heap {
 
     public static void heapAdjust(int[] nums, int start, int end) {
+        /* 当只有做
         int temp = nums[start];
 
         for (int i = 2*start + 1; i <= end; i*=2) {
@@ -25,7 +26,20 @@ public class Heap {
             start = i;
         }
 
-        nums[start] = temp;
+        nums[start] = temp;*/
+
+        int left = 2*start + 1;
+        int right = left + 1;
+        int largest = start;
+
+        if (left < end && nums[left] > nums[start]) largest = left;
+        if (right < end && nums[right] > nums[largest]) largest = right;
+        if (largest != start) {
+            int temp = nums[largest];
+            nums[largest] = nums[start];
+            nums[start] = temp;
+            heapAdjust(nums, largest, end);
+        }
     }
 
     public static void heapSort(int[] nums) {
@@ -46,7 +60,7 @@ public class Heap {
     }
 
     public static void main(String[] args) {
-        int[] test = {1,2,2,3,4};
+        int[] test = {9,2,2,3,4,9};
         heapSort(test);
         for (int i : test) {
             System.out.printf(i + "");
