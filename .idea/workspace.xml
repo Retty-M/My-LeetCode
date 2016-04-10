@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6aa8c5d-710f-41fd-8aad-9e4beab89477" name="Default" comment="增添Stack分类">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tree/Solution105.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution101.java" afterPath="$PROJECT_DIR$/src/Tree/Solution101.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution102.java" afterPath="$PROJECT_DIR$/src/Tree/Solution102.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution104.java" afterPath="$PROJECT_DIR$/src/Tree/Solution104.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution107.java" afterPath="$PROJECT_DIR$/src/Tree/Solution107.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution110.java" afterPath="$PROJECT_DIR$/src/Tree/Solution110.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution235.java" afterPath="$PROJECT_DIR$/src/Tree/Solution235.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Solution257.java" afterPath="$PROJECT_DIR$/src/Tree/Solution257.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/TreeNode.java" afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="My LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution4.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Array/Solution4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="779">
               <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution105.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tree/Solution105.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -59,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution160.java" />
         <option value="$PROJECT_DIR$/src/Solution169.java" />
         <option value="$PROJECT_DIR$/src/Solution171.java" />
         <option value="$PROJECT_DIR$/src/Solution191.java" />
@@ -110,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/LinkedList/Solution83.java" />
         <option value="$PROJECT_DIR$/src/Tree/Solution101.java" />
         <option value="$PROJECT_DIR$/src/Tree/Solution257.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Solution105.java" />
       </list>
     </option>
   </component>
@@ -320,7 +324,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23133236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23133236" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -364,13 +368,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution171.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution205.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -710,6 +707,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solution105.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
