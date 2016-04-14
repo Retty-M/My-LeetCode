@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6aa8c5d-710f-41fd-8aad-9e4beab89477" name="Default" comment="增添Stack分类">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tree/Solution106.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/Solution105.java" afterPath="$PROJECT_DIR$/src/Tree/Solution105.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/Solution107.java" afterPath="$PROJECT_DIR$/src/Tree/Solution107.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/Solution110.java" afterPath="$PROJECT_DIR$/src/Tree/Solution110.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tree/Solution235.java" afterPath="$PROJECT_DIR$/src/Tree/Solution235.java" />
     </list>
     <ignored path="My LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,21 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution4.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Solution4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Array/Solution4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="779">
               <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution105.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tree/Solution105.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -63,10 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution169.java" />
-        <option value="$PROJECT_DIR$/src/Solution171.java" />
-        <option value="$PROJECT_DIR$/src/Solution191.java" />
-        <option value="$PROJECT_DIR$/src/Solution205.java" />
         <option value="$PROJECT_DIR$/src/Solution217.java" />
         <option value="$PROJECT_DIR$/src/Solution234.java" />
         <option value="$PROJECT_DIR$/src/Solution303.java" />
@@ -114,6 +103,10 @@
         <option value="$PROJECT_DIR$/src/Tree/Solution101.java" />
         <option value="$PROJECT_DIR$/src/Tree/Solution257.java" />
         <option value="$PROJECT_DIR$/src/Tree/Solution105.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Solution107.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Solution110.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Solution235.java" />
+        <option value="$PROJECT_DIR$/src/Tree/Solution106.java" />
       </list>
     </option>
   </component>
@@ -413,7 +406,8 @@
     <MESSAGE value="修改Solution206" />
     <MESSAGE value="修改Solution4，增加一种解法" />
     <MESSAGE value="对链表题进行修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="对链表题进行修改" />
+    <MESSAGE value="修改 Tree-&gt;Solution105" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改 Tree-&gt;Solution105" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -422,38 +416,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution217.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution303.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution242.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution290.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Solution110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -579,13 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Solution235.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution231.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -678,13 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/Solution101.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -696,13 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tree/Solution257.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -744,18 +689,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/Solution4.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solution107.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solution110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solution235.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solution257.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/Solution105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="684">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/Solution106.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding />
         </state>
       </provider>
