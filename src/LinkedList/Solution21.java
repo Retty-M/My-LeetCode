@@ -4,6 +4,8 @@ import LinkedList.ListNode;
 
 /**
  * Created by Retty on 2016-03-20.
+ * Merge Two Sorted Lists
+ * 遍历比l1和l2的值
  */
 public class Solution21 {
 	
