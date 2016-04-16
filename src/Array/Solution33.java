@@ -21,8 +21,8 @@ public class Solution33 {
 
         int minIndex = findMinIndex(nums);
         int len = nums.length;
-        int start = 0;
-        int end = 0;
+        int start;
+        int end;
         if (target <= nums[len-1]) {
             start = minIndex;
             end = len - 1;
