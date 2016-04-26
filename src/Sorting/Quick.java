@@ -44,7 +44,7 @@ public class Quick {
         while (!ranges.empty()) {
             int right = ranges.pop();
             int left = ranges.pop();
-            if (right - left <= 1) continue;
+            if (right - left <= 0) continue;
 
             // 快速排序
             int dp = partition(nums, left, right);
@@ -57,7 +57,7 @@ public class Quick {
     }
 
     public static void main(String[] args) {
-        int[] test = {9,8,7,6,5,4,3,2,1};
+        int[] test = {1,2};
 //        quick(test, 0, 8);
         quickSort(test);
         for (int i : test) {
